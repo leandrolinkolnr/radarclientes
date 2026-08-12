@@ -4,6 +4,8 @@ Painel de inteligência comercial para distribuidoras. A partir do histórico de
 
 > ⚠️ Os dados deste repositório são **fictícios**, apenas para demonstração.
 
+
+
 ## O que faz
 
 - **🎯 Queda** — clientes que reduziram compras, ordenados pela perda. A lista de quem ligar primeiro.
