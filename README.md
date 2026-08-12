@@ -11,6 +11,6 @@ Painel de inteligência comercial para distribuidoras. A partir do histórico de
 - **🎯 Queda** — clientes que reduziram compras, ordenados pela perda. A lista de quem ligar primeiro.
 - **💤 Inativos** — quem parou de comprar e há quantos dias.
 - **⚠️ Risco** — cruza o ritmo típico de recompra (P80) com o tempo desde a última compra para sinalizar risco *antes* do abandono.
-- **📊 Comparativo** — faturamento período a período, para enxergar tendência.
+- **📊 Comparativo** — faturamento período a período dos clientes-alvo, para entender comportamentos.
 
 Tudo com recorte por carteira (Atacado/Varejo) e por vendedor, controle de acesso por permissão e exportação para Excel.
