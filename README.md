@@ -1,6 +1,6 @@
 # 📡 Radar de Clientes
 
-Painel de inteligência comercial para distribuidoras. A partir do histórico de vendas, aponta **onde a carteira está sangrando** — clientes em queda, inativos ou prestes a sumir — para o time agir antes de perder a conta.
+Painel de inteligência comercial. A partir do histórico de vendas, aponta **onde a carteira está sangrando** — clientes em queda, inativos ou prestes a sumir — para o time agir antes de perder a conta.
 
 > ⚠️ Os dados deste repositório são **fictícios**, apenas para demonstração.
 
